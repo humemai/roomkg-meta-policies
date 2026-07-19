@@ -27,6 +27,7 @@ reproduced figures in this repository.
 - [`plot-symbolic.py`](./plot-symbolic.py), [`plot-symbolic-simple.py`](./plot-symbolic-simple.py), [`plot-dqn.py`](./plot-dqn.py), and [`plot-dqn-simple.py`](./plot-dqn-simple.py): aggregate experiment outputs into paper figures
 - [`plot-results.py`](./plot-results.py): render memory-state graphs from saved test-time state traces
 - [`figures/`](./figures): README figures exported from the paper
+- [`supplementary-material/`](./supplementary-material): full supplementary material for the ISWC 2026 paper (diagnostic Q-value plots, full-size figures, memory-evolution sequence, and additional hyperparameters)
 
 ## Method overview
 
