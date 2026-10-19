@@ -10,7 +10,7 @@ temporal knowledge-graph memory in
 This is the code for the paper *"Neuro-Symbolic Meta-Policies for Temporal
 Knowledge-Graph Memory under Partial Observability"*, accepted at the
 [ISWC 2026](https://iswc2026.semanticweb.org/) Research Track. For the research
-overview, see the [project page](https://humem.ai/projects/roomkg-meta-policies).
+overview, see the [project page](https://humem.ai/research/roomkg-meta-policies).
 
 This README focuses on the code, experiment entry points, evaluation flow, and
 reproduced figures in this repository.
@@ -144,7 +144,7 @@ to a named symbolic heuristic.
 
 ## Further reading
 
-- [Project page](https://humem.ai/projects/roomkg-meta-policies)
+- [Project page](https://humem.ai/research/roomkg-meta-policies)
 - [RoomEnv-v3 / RoomKG benchmark](https://github.com/humemai/room-env)
 
 ## Cite our paper
